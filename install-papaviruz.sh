@@ -7,3 +7,5 @@ chmod +x *
 bash papaviruz.sh
 cd
 rm -R install-papaviruz-termux
+y
+y
